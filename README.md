@@ -1,10 +1,40 @@
-# Edge-AI Platforms
+# Edge AI Platforms
 
 ## Overview
 
 A list of Edge AI hardware platforms that support AI and machine learning developments for real-world applications.
 
+## Table of Contents
+- [Overview](#overview)
+- [Edge Device Platforms](#edge-device-platforms)
+  - [1. System on Chips (SoCs)](#1-system-on-chips-socs)
+  - [2. Microcontrollers (MCUs)](#2-microcontrollers-mcus)
+  - [3. Field-Programmable Gate Arrays (FPGAs)](#3-field-programmable-gate-arrays-fpgas)
+  - [4. Edge AI Boxes and Gateways](#4-edge-ai-boxes-and-gateways)
+  - [5. Mobile and Embedded Devices](#5-mobile-and-embedded-devices)
+  - [6. AI Development Platforms](#6-ai-development-platforms)
+  - [7. Specialized Edge Devices](#7-specialized-edge-devices)
+  - [8. Industrial and Custom Edge Devices](#8-industrial-and-custom-edge-devices)
+  - [9. Robotics-focused Edge Devices](#9-robotics-focused-edge-devices)
+- [Industry Applications](#industry-applications)
+  - [1. Industrial Automation](#1-industrial-automation)
+  - [2. Healthcare and Medical Devices](#2-healthcare-and-medical-devices)
+  - [3. Automotive and Transportation](#3-automotive-and-transportation)
+  - [4. Smart Cities and Surveillance](#4-smart-cities-and-surveillance)
+  - [5. Retail and E-commerce](#5-retail-and-e-commerce)
+  - [6. Robotics](#6-robotics)
+  - [7. Agriculture](#7-agriculture)
+  - [8. Consumer Electronics and Wearables](#8-consumer-electronics-and-wearables)
+  - [9. Edge AI for IoT](#9-edge-ai-for-iot)
+- [Edge Devices Categorized by Computing Performance](#edge-devices-categorized-by-computing-performance)
+  - [1. Light Performance Applications](#1-light-performance-applications)
+  - [2. Mid Performance Applications](#2-mid-performance-applications)
+  - [3. High Performance Applications](#3-high-performance-applications)
+- [References](#references)
+
 ## Edge Device Platforms
+
+[Back to Table of Contents](#table-of-contents)
 
 ### **1. System on Chips (SoCs):**
 - **NVIDIA Jetson Series:**
@@ -73,6 +103,8 @@ A list of Edge AI hardware platforms that support AI and machine learning develo
 - **Open Robotics TurtleBot3:** Affordable robot with AI-enabled edge processing.
 
 ### **Industry Applications**
+
+[Back to Table of Contents](#table-of-contents)
 
 #### **1. Industrial Automation**
 Edge devices optimized for manufacturing, logistics, and factory automation:  
@@ -152,6 +184,8 @@ Devices driving IoT applications across sectors:
 
 ## Edge Devices Categorized by Computing Performance
 
+[Back to Table of Contents](#table-of-contents)
+
 ### **1. Light Performance Applications**
 
 Devices in this category are suitable for basic tasks, low-power applications, or those with simpler AI/ML models that do not require heavy computation.
@@ -200,6 +234,9 @@ Devices in this category offer the highest computational power and are suitable 
 
 
 ## References
+
+[Back to Table of Contents](#table-of-contents)
+
 - [NVIDIA Jetson Orin Nano announcement](https://blogs.nvidia.com/blog/jetson-generative-ai-supercomputer/)
 - [Edge AI Platforms: From entry-level to high performance, how to select your AI devices?](https://www.axiomtek.com/Default.aspx?MenuId=Solutions&FunctionId=SolutionView&ItemId=2807&Title=Edge+AI+Platforms)
 
