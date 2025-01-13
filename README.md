@@ -34,8 +34,6 @@ A list of Edge AI hardware platforms that support AI and machine learning develo
 
 ## Edge Device Platforms
 
-[Back to Table of Contents](#table-of-contents)
-
 ### **1. System on Chips (SoCs):**
 - **NVIDIA Jetson Series:**
   - **Jetson Orin Nano Developer Kit:** Compact AI computer with 67 TOPS for robotics and AI applications.
@@ -102,9 +100,9 @@ A list of Edge AI hardware platforms that support AI and machine learning develo
 - **Boston Dynamics Spot:** AI-powered robot with edge computing capabilities.
 - **Open Robotics TurtleBot3:** Affordable robot with AI-enabled edge processing.
 
-### **Industry Applications**
-
 [Back to Table of Contents](#table-of-contents)
+
+### **Industry Applications**
 
 #### **1. Industrial Automation**
 Edge devices optimized for manufacturing, logistics, and factory automation:  
@@ -182,9 +180,9 @@ Devices driving IoT applications across sectors:
 - **TensorFlow Lite-enabled Devices:** ML for IoT sensors and cameras.  
 - **PyTorch Mobile on Raspberry Pi:** IoT prototyping with AI models.
 
-## Edge Devices Categorized by Computing Performance
-
 [Back to Table of Contents](#table-of-contents)
+
+## Edge Devices Categorized by Computing Performance
 
 ### **1. Light Performance Applications**
 
@@ -231,11 +229,9 @@ Devices in this category offer the highest computational power and are suitable 
 | Google TPU (Cloud-based AI inference)  | Cloud-based solution for running complex machine learning models at scale with low latency.                   | High-end processors (custom TPUs)     | > 16 GB    | SSD/NVMe       | High power (30 W - 150 W)  | < 50 ms              | Low latency        | High throughput  | High             | Large-scale AI, autonomous vehicles    |
 | IBM Power9 with AI Acceleration   | High-performance computing platform optimized for AI and deep learning tasks.                                | High-end processors (Power9)   | > 32 GB    | SSD/NVMe       | High power (30 W - 150 W)  | < 50 ms              | Low latency        | High throughput  | High             | AI in advanced robotics and industrial applications |
 
-
+[Back to Table of Contents](#table-of-contents)
 
 ## References
-
-[Back to Table of Contents](#table-of-contents)
 
 - [NVIDIA Jetson Orin Nano announcement](https://blogs.nvidia.com/blog/jetson-generative-ai-supercomputer/)
 - [Edge AI Platforms: From entry-level to high performance, how to select your AI devices?](https://www.axiomtek.com/Default.aspx?MenuId=Solutions&FunctionId=SolutionView&ItemId=2807&Title=Edge+AI+Platforms)
