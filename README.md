@@ -1,8 +1,10 @@
+[![](https://img.shields.io/badge/Contribute-Welcome-green)](#)
+
 # Edge AI Platforms
 
 ## Overview
 
-A list of Edge AI hardware platforms that support AI and machine learning developments for real-world applications.
+A curated list of Edge AI hardware platforms that support AI and machine learning developments for real-world applications.
 
 ## Table of Contents
 - [Overview](#overview)
